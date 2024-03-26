@@ -19,34 +19,6 @@ This Streamlit app provides a betting dashboard for visualizing data related to 
 
 ```bash
 git clone https://github.com/your_username/betting-dashboard.git
-cd betting-dashboard
-```
-
-ChatGPT
-
-Here's a basic README.md template for your Streamlit app:
-
-markdown
-
-# Betting Dashboard
-
-This Streamlit app provides a betting dashboard for visualizing data related to betting outcomes.
-
-## Features
-
-- **Payload Generation:** Allows users to generate simulated betting payloads based on specified start and end dates, number of payloads, and save directory.
-- **Data Visualization:** Provides interactive visualizations of the generated data, including amount distribution and timeline analysis of the number of bets over time.
-- **Payload Deletion:** Includes an option to delete all generated payloads in the specified save directory.
-
-## Getting Started
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your_username/betting-dashboard.git
-cd betting-dashboard
 ```
 
 2. Install the required dependencies:
