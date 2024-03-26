@@ -2,7 +2,7 @@
 
 This Streamlit app provides a betting dashboard for visualizing data related to betting outcomes.
 
-
+![Betting Dashboard](https://github.com/noelAngelo/generator-bet/blob/main/static/screenshot.png?raw=true)
 
 
 ## Features
